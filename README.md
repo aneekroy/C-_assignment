@@ -1,2 +1,2 @@
 # C-_assignment
-C++ Assignments for 2nd Year OOP Lab at JU
+C++ 1st Assignment for 2nd Year OOP Lab at JU 
